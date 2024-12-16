@@ -6,7 +6,7 @@ export const personalData = {
   email: 'rofikulhuda244@gmail.com',
   phone: '+6285607600007',
   address: 'Ngawi, East Java, Indonesia - 63211 ',
-  github: 'https://github.com/rypych',
+  github: 'https://github.com/rfypych',
   // facebook: 'https://www.facebook.com/abusaid.riyaz/',
   // linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
   // twitter: 'https://twitter.com/said7388',
